@@ -37,7 +37,8 @@ python app.py
 📌 Home Page (Input form)
 ![image](https://github.com/user-attachments/assets/09d640a9-d9b4-406b-91bd-9d45acd7c78a)
 ![image](https://github.com/user-attachments/assets/81aeb7cf-c6ce-4340-b500-a8ce0d8140ca)
-![image](https://github.com/user-attachments/assets/6c2227b2-b53f-4224-8538-5a0e71c9e8ae)
+![image](https://github.com/user-attachments/assets/354e3a3d-33c2-4037-83cd-822f5a4608a3)
+
 
 📌 Prediction Page
 ![image](https://github.com/user-attachments/assets/3a3b40d3-da10-4585-b3b4-3f5db0785650)
