@@ -1,0 +1,19 @@
+
+        body { 
+            font-family: Arial, sans-serif; 
+            background: url('background-image.jpg') no-repeat center center fixed; 
+            background-size: cover; 
+        }
+        .hero-section { 
+            background: rgba(0, 0, 0, 0.6); 
+            color: white; 
+            display: flex; 
+            align-items: center; 
+            justify-content: center; 
+            text-align: center; 
+            height: 100vh; 
+        }
+        .about-section { padding: 50px 0; background: rgba(255, 255, 255, 0.8); }
+        .input-section { padding: 50px; background: rgba(255, 255, 255, 0.8); }
+        .result-section { padding: 50px; text-align: center; background: rgba(238, 242, 243, 0.8); }
+   
